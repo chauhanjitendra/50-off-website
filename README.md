@@ -7,7 +7,7 @@ A simple, vibrant promotional website offering a **50% discount** — perfect fo
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://your-live-demo-link.com)
+👉 [View Live Website]( https://chauhanjitendra.github.io/50-off-website/)
 
 ## 🛠️ Tech Stack
 
